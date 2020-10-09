@@ -6,7 +6,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 [Examining the effect of environmental factors and weather on Bike rentals](/sample_page)
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/seoul-bikes.jpeg?raw=true"/>
 
 - Used Linear Regression to predict the number of bikes rented in the city of Seoul
 - The data had quite a few categorical variables which were encoded for use in the model
@@ -17,7 +17,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 [Diagnosis of breast cancer using a logistic classifier](/sample_page)
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/breast-cancer.jpeg?raw=true"/>
 
 - Used logistic regression to identify a tumour as malignant or benign based on various attributes
 - Measure various attributes of tumorous growths and classifying them as benign or malignant
@@ -28,7 +28,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 [Identifying symptoms of orthopedic patients as normal or abnormal](/sample_page)
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/knee-brace-ortho.png?raw=true"/>
 
 - Used the K Nearest Neighbours algorithm to classify a patient's condition as normal or abnormal based on various orthopedic parameters.
 - Compared predictive performance by fitting a Naive Bayes model to the data.
