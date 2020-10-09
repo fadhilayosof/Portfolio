@@ -10,6 +10,8 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 - Used Linear Regression to predict the number of bikes rented in the city of Seoul
 - The data had quite a few categorical variables which were encoded for use in the model
+- Encoded categorical variables to numeric using Sklearn due to the presence of many string columns
+- Fit a multiple linear regression model with high prediction accuracy through iteration
 
 ***
 
@@ -17,7 +19,10 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
-- Used logistic regression to identify a tumour as malignant or benign based on various attributes.
+- Used logistic regression to identify a tumour as malignant or benign based on various attributes
+- Measure various attributes of tumorous growths and classifying them as benign or malignant
+- Used Logistic regression classifier & optimized the accuracy by using the ROC curve
+- Explored a machine learning approach to medical diagnosis
 
 ***
 
