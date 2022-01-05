@@ -1,23 +1,36 @@
 # Data Science Portfolio
 
-Here are some of my best Data Science Projects. I have explored various machine-learning algorithms for different datasets. Feel free to contanct me to learn more about my experience working with these projects.
+Here are some of my best Data Science Projects. I have explored various machine-learning algorithms for different datasets. Feel free to contact me to learn more about my experience working with these projects.
 
 ***
 
-[Examining the effect of environmental factors and weather on Bike rentals](https://github.com/emani27/Emani_DataScience/blob/master/Linear_Regression%20Project.ipynb)
+[Examining the effect of environmental factors and weather on demand of Bike rentals](https://github.com/suvo-gh/Bike-Rental-Demand/blob/main/Bike_Rental_Demand.ipynb)
 
 <img src="images/seoul-bikes.jpeg?raw=true"/>
 
-- Used Linear Regression to predict the number of bikes rented in the city of Seoul
+**Skills used:** Python, Pandas, SKlearn, Matplotlib
+
+**Project Objective:** Predicting Bike rental demand on basis of weather and seasonal factors in advance to take appropiate measures which finally will result in bike utilization.
+
+**Quantifiable result:** We could predict the Bike rental demand resulting in [**94%** accuracy](https://github.com/suvo-gh/Bike-Rental-Demand/blob/main/Bike_Rental_Demand.ipynb).
+
+- Used Random Forest Regressor to predict the number of bikes rented in the city of Seoul
 - The data had quite a few categorical variables which were encoded for use in the model
 - Encoded categorical variables to numeric using Sklearn due to the presence of many string columns
-- Fit a multiple linear regression model with high prediction accuracy through iteration
+- Cross Validation for validating the training data and model fit.
+- Fit a Random Forest Regressor with high prediction accuracy through iteration
 
 ***
 
-[Diagnosis of breast cancer using a logistic classifier](https://github.com/emani27/Emani_DataScience/blob/master/Logistic%20Regression%20Project.ipynb)
+[Diagnosis of breast cancer using a logistic classifier](https://github.com/suvo-gh/Orthopedic-Patients-Classification)
 
 <img src="images/breast-cancer.jpeg?raw=true"/>
+
+**Skills used:** Python, Pandas, SKlearn, Matplotlib
+
+**Project Objective:** Classifying Biomechanical Features of Orthopedic Patients based on provided Features to decrease the time required for finding a diagonasis
+
+**Quantifiable result:** We could Classify the type of tumor resulting in [**80%** accuracy using K-means algorithm](https://github.com/suvo-gh/Orthopedic-Patients-Classification).
 
 - Used logistic regression to identify a tumour as malignant or benign based on various attributes
 - Classified tumors as benign or malignant by studying patterns in measured attributes of those tumors
@@ -26,10 +39,17 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 ***
 
-[Identifying symptoms of orthopedic patients as normal or abnormal](/sample_page)
+[Identifying given picture is a Cat or a Dog](https://github.com/suvo-gh/Cat_or_Dog_prediction/blob/main/CNN_Project%20(Image_Classification).ipynb)
 
-<img src="images/knee-brace-ortho.png?raw=true"/>
+<img src="images/Dog-and-Cat.jpeg?raw=true"/>
 
-- Used the K Nearest Neighbours algorithm to classify a patient's condition as normal or abnormal based on various orthopedic parameters
-- Compared predictive performance by fitting a Naive Bayes model to the data
-- Selected best model based on train and test performance
+**Skills used:** Python, Keras, Tensorflow
+
+**Project Objective:** Prediction of whether a given image is a Cat or a Dog using Convolutional Neural Networks which may be further implemented as a feature in a bigger project.
+
+**Quantifiable result:** We could train the Convolutional Neural Network to attain a accuracy of [**80%** using **23** epochs](https://github.com/suvo-gh/Cat_or_Dog_prediction/blob/main/CNN_Project%20(Image_Classification).ipynb).
+
+- Added multiple convolution and pooling layers
+- Training model on basis of given data
+- Fitting the CNN to see if the provided image is dog or cat
+- Data Source: https://drive.google.com/drive/folders/15SG-chdqEwcrNAY39RTZJjvl-UwiZo_e?usp=sharing
