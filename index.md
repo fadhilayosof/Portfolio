@@ -22,7 +22,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 ***
 
-[Diagnosis of breast cancer using a logistic classifier](https://github.com/suvo-gh/Orthopedic-Patients-Classification)
+[Diagnosis of breast cancer using a logistic classifier](https://github.com/fadhilayosof/Knn_Nb_Project1)
 
 <img src="images/breast-cancer.jpeg?raw=true"/>
 
@@ -39,7 +39,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 ***
 
-[Identifying given picture is a Cat or a Dog](https://github.com/suvo-gh/Cat_or_Dog_prediction/blob/main/CNN_Project%20(Image_Classification).ipynb)
+[Handwriting Classification Project](https://github.com/fadhilayosof/hand_writting_recognition_project.)
 
 <img src="images/Dog-and-Cat.jpeg?raw=true"/>
 
