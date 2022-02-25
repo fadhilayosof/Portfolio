@@ -41,13 +41,13 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 [Handwriting Classification Project](https://github.com/fadhilayosof/hand_writting_recognition_project.)
 
-<img src="images/Handwriting.jpg?raw=true"/>
+<img src="images/Handwriting.jpeg?raw=true"/>
 
 **Skills used:** Python, Keras, Tensorflow
 
 **Project Objective:** Recognition of handwritten text using Convolutional Neural Networks which may be further implemented as a feature in a bigger project.
 
-**Quantifiable result:** We could train the Convolutional Neural Network to attain a accuracy of [**80%** using **23** epochs](https://github.com/suvo-gh/Cat_or_Dog_prediction/blob/main/CNN_Project%20(Image_Classification).ipynb).
+**Quantifiable result:** We could train the Convolutional Neural Network to attain a accuracy of [**93%** using **5** epochs](https://github.com/fadhilayosof/hand_writting_recognition_project.).
 
 - Added multiple convolution and pooling layers
 - Training model on basis of given data
