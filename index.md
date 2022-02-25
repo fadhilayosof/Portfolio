@@ -47,7 +47,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 **Project Objective:** Recognition of handwritten text using Convolutional Neural Networks which may be further implemented as a feature in a bigger project.
 
-**Quantifiable result:** We could train the Convolutional Neural Network to attain a accuracy of [**93%** using **5** epochs](https://github.com/fadhilayosof/hand_writting_recognition_project.).
+**Quantifiable result:** We could train the Convolutional Neural Network to attain a accuracy of [**93%** using **10** epochs](https://github.com/fadhilayosof/hand_writting_recognition_project.).
 
 - Added multiple convolution and pooling layers
 - Training model on basis of given data
