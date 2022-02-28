@@ -70,3 +70,20 @@ https://github.com/fadhilayosof/Knn_Nb_Project1/blob/main/Knn_Nb_Project.ipynb.
 - Used the K Nearest Neighbours algorithm to classify a patient’s condition as normal or abnormal based on various orthopedic parameters.
 - Compared predictive performance by fitting a Naive Bayes model to the data.
 - Selected best model based on train and test performance.
+
+***
+
+[TalkingData Project on Bagging and Boosting Ensemble Model](https://github.com/fadhilayosof/Bagging_Boosting_Project/blob/main/Bagging_Boosting_Project.ipynb)
+
+<img src="images/Orthopedics.png?raw=true"/>
+
+**Skills used:**: Python, Pandas, SKlearn, Matplotlib,XGboost Classifier, BaggingClassifier
+
+**Project Objective:** In this problem, we will use the features associated with clicks, such as IP address, operating system, device type, time of click etc. to predict the probability of a click being fraud.
+
+Quantifiable result: We could Classify the Pepole who downloaded the app after watching the advertisement with an accuracy of 99% .
+
+- Used the XGboost Classifier algorithm to classify the Pepole who downloaded the app after watching the advertisement and identify the click fraud
+- Compared predictive performance by fitting a BaggingClassifier model to the data
+- Selected best model based on train and test performance
+
