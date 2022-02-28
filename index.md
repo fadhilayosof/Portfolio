@@ -109,8 +109,18 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 **Project Objective:** Using machine learning to predict employee attrition in Python, We use linear Regression,and Decision Tree Regressor as classifier for employee attrition and measure the accuracy of models that are built.
 
-**Quantifiable result:** We achieved the best accuracy of 99% using Decision Tree Regressor. However Linear regression was far with the accuracy of 47%.
+**Quantifiable result:** We achieved the best accuracy of 99% using Decision Tree Regressor. 
 
+****
 
+[IMDB-Movie-Ratings-Sentiment-Analysis](https://github.com/fadhilayosof/IMDB-Movie-Ratings-Sentiment-Analysis)
+
+<img src="images/IMDB.jfif?raw=true"/>
+
+**Skills used:**:Python, Pandas, SKlearn, Matplotlib,
+
+**Project Objective:**  Build classification models to predict the ratings of the movie , we used LogisticRegression and ,MultinomialNB
+
+**Quantifiable result:** Logistic Regression show best accuracy(0.89)
 
 
