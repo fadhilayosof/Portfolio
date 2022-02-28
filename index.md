@@ -77,7 +77,7 @@ https://github.com/fadhilayosof/Knn_Nb_Project1/blob/main/Knn_Nb_Project.ipynb.
 
 <img src="images/Mobile.jpeg?raw=true"/>
 
-**Skills used:**: Python, Pandas, SKlearn, Matplotlib,XGboost Classifier, BaggingClassifier
+**Skills used:**: Python, Pandas, SKlearn, Matplotlib,XGboost Classifier, BaggingClassifier.
 
 **Project Objective:** In this problem, we will use the features associated with clicks, such as IP address, operating system, device type, time of click etc. to predict the probability of a click being fraud.
 
