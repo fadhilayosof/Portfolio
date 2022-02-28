@@ -80,9 +80,24 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 **Project Objective:** In this problem, we will use the features associated with clicks, such as IP address, operating system, device type, time of click etc. to predict the probability of a click being fraud.
 
-Quantifiable result: We could Classify the Pepole who downloaded the app after watching the advertisement with an accuracy of 99% .
+**Quantifiable result:** We could Classify the Pepole who downloaded the app after watching the advertisement with an accuracy of 99% .
 
 - Used the XGboost Classifier algorithm to classify the Pepole who downloaded the app after watching the advertisement and identify the click fraud
 - Compared predictive performance by fitting a BaggingClassifier model to the data
 - Selected best model based on train and test performance
+
+***
+[Employee Compensation in SF clustering ](https://github.com/fadhilayosof/k-means-project/blob/main/Copy_of_k_means_project.ipynb)
+
+<img src="images/Mobile.jpeg?raw=true"/>
+
+**Skills used:**: Python, Pandas, SKlearn, Matplotlib,Elbow method, K means cluster algorithm.
+
+**Project Objective:**  We have to fit the data to a clustering model. The model should help the State authorities/Policy makers to understand how they can improve on their policies for employee benefits.
+
+**Quantifiable result:** We could Classify 3 clusters from the dataset .
+
+- Used the K means cluster algorithm to classify the number of clusters the can be formed from the data.
+
+
 
