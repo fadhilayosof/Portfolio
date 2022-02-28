@@ -65,7 +65,6 @@ Here are some of my best Data Science Projects. I have explored various machine-
 **Project Objective:** In this project we are provided with multiple instances of orthopedic parameters and we are also provided with their classification as Normal or Abnormal. We have to implement K Nearest Neighbor, the algorithm is used to classify points according to class of their K nearest neighbor points. 
 
 **Quantifiable result:** We could Classify the orthopedic parameters as Normal or Abnormal with an accuracy of. [**88.71%**]
-https://github.com/fadhilayosof/Knn_Nb_Project1/blob/main/Knn_Nb_Project.ipynb.
 
 - Used the K Nearest Neighbours algorithm to classify a patient’s condition as normal or abnormal based on various orthopedic parameters.
 - Compared predictive performance by fitting a Naive Bayes model to the data.
