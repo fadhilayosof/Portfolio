@@ -89,7 +89,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 ***
 [Employee Compensation in SF clustering ](https://github.com/fadhilayosof/k-means-project/blob/main/Copy_of_k_means_project.ipynb)
 
-<img src="images/Mobile.jpeg?raw=true"/>
+<img src="clusters.png?raw=true"/>
 
 **Skills used:**: Python, Pandas, SKlearn, Matplotlib,Elbow method, K means cluster algorithm.
 
