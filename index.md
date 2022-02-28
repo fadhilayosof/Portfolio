@@ -103,7 +103,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 [Predicting Employee Attrition ](https://github.com/fadhilayosof/Suicide-Rates-Overview-1985-to-2016-project)
 
-<img src="images/seoul-bikes.jpeg?raw=true"/>
+<img src="images/employee Attrition.jfif?raw=true"/>?raw=true"/>
 
 **Skills used:**:Python, Pandas, SKlearn, Matplotlib,DecisionTreeRegressor,LinearRegression
 
