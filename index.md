@@ -91,13 +91,26 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 <img src="clusters.png?raw=true"/>
 
-**Skills used:**: Python, Pandas, SKlearn, Matplotlib,Elbow method, K means cluster algorithm.
+**Skills used:**: Python, Pandas, SKlearn, Matplotlib, K means cluster algorithm.
 
 **Project Objective:**  We have to fit the data to a clustering model. The model should help the State authorities/Policy makers to understand how they can improve on their policies for employee benefits.
 
 **Quantifiable result:** We could Classify 3 clusters from the dataset .
 
 - Used the K means cluster algorithm to classify the number of clusters the can be formed from the data.
+
+***
+
+[Predicting Employee Attrition ](https://github.com/fadhilayosof/Suicide-Rates-Overview-1985-to-2016-project)
+
+<img src="clusters.png?raw=true"/>
+
+**Skills used:**:Python, Pandas, SKlearn, Matplotlib,DecisionTreeRegressor,LinearRegression
+
+**Project Objective:** Using machine learning to predict employee attrition in Python,   We use linear Regression,and Decision Tree Regressor as classifier for employee attrition and measure the accuracy of models that are built.
+
+**Quantifiable result:** Decision Tree Regressor is the best classfier for predicting employee attrition for our dataset
+
 
 
 
