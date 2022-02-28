@@ -56,7 +56,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 ***
 [Identifying Symptoms of Orthopedic Patients as Normal or Abnormal](https://github.com/fadhilayosof/Knn_Nb_Project1/blob/main/Knn_Nb_Project.ipynb)
-<img src="images/Handwriting.jpg?raw=true"/>
+<img src="images/Orthopedics.png?raw=true"/>
 
 **Skills used:** Python, Pandas, SKlearn, Matplotlib,KNN,NB
 
