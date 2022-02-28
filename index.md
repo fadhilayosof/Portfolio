@@ -41,7 +41,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 [Handwriting Classification Project](https://github.com/fadhilayosof/hand_writting_recognition_project.)
 
-<img src="images/Handwriting.jpeg?raw=true"/>
+<img src="images/Handwriting.jpg?raw=true"/>
 
 **Skills used:** Python, Keras, Tensorflow
 
