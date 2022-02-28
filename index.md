@@ -107,9 +107,9 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 **Skills used:**:Python, Pandas, SKlearn, Matplotlib,DecisionTreeRegressor,LinearRegression
 
-**Project Objective:** Using machine learning to predict employee attrition in Python,   We use linear Regression,and Decision Tree Regressor as classifier for employee attrition and measure the accuracy of models that are built.
+**Project Objective:** Using machine learning to predict employee attrition in Python, We use linear Regression,and Decision Tree Regressor as classifier for employee attrition and measure the accuracy of models that are built.
 
-**Quantifiable result:** Decision Tree Regressor is the best classfier for predicting employee attrition for our dataset
+**Quantifiable result:**We achieved the best accuracy of 99% using Decision Tree Regressor. However Linear regression was far with the accuracy of 47%.
 
 
 
