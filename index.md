@@ -55,6 +55,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 - Data Source: https://drive.google.com/drive/folders/15SG-chdqEwcrNAY39RTZJjvl-UwiZo_e?usp=sharing
 
 ***
+
 [Identifying Symptoms of Orthopedic Patients as Normal or Abnormal](https://github.com/fadhilayosof/Knn_Nb_Project1/blob/main/Knn_Nb_Project.ipynb)
 
 <img src="images/Orthopedics.png?raw=true"/>
