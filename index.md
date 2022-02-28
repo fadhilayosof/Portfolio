@@ -75,7 +75,7 @@ https://github.com/fadhilayosof/Knn_Nb_Project1/blob/main/Knn_Nb_Project.ipynb.
 
 [TalkingData Project on Bagging and Boosting Ensemble Model](https://github.com/fadhilayosof/Bagging_Boosting_Project/blob/main/Bagging_Boosting_Project.ipynb)
 
-<img src="images/Orthopedics.png?raw=true"/>
+<img src="images/Mobile.jpeg?raw=true"/>
 
 **Skills used:**: Python, Pandas, SKlearn, Matplotlib,XGboost Classifier, BaggingClassifier
 
