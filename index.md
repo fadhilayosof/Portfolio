@@ -101,7 +101,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 ***
 
-[Predicting Employee Attrition ](https://github.com/fadhilayosof/Suicide-Rates-Overview-1985-to-2016-project)
+[Suicide-Rates-Overview-1985-to-2016-project ](https://github.com/fadhilayosof/Suicide-Rates-Overview-1985-to-2016-project)
 
 <img src="images/employee-attrition-analysis.png?raw=true"/>
 
