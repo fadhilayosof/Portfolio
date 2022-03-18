@@ -107,9 +107,9 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 **Skills used:**:Python, Pandas, SKlearn, Matplotlib,DecisionTreeRegressor,LinearRegression
 
-**Project Objective:** Using machine learning to predict employee attrition in Python, We use linear Regression,and Decision Tree Regressor as classifier for employee attrition and measure the accuracy of models that are built.
+**Project Objective:** Using machine learning to predict Suicide-Rates in Python, We use  Decision Tree Regressor as classifier for Suicide Rates and measure the accuracy of models that are built.
 
-**Quantifiable result:** We achieved the best accuracy of [** 99% using Decision Tree Regresso r**]. 
+**Quantifiable result:** We achieved the best accuracy of [** 99% **]. 
 
 ****
 
@@ -122,5 +122,16 @@ Here are some of my best Data Science Projects. I have explored various machine-
 **Project Objective:**  Build classification models to predict the ratings of the movie , we used LogisticRegression and ,MultinomialNB
 
 **Quantifiable result:** Logistic Regression show best accuracy[** 89% **]
+
+****
+[Predicting-Employee-Attrition ](https://github.com/fadhilayosof/Predicting-Employee-Attrition-project)
+
+<img src="images/employee-attrition-analysis.png?raw=true"/>
+
+**Skills used:**:Python, Pandas, SKlearn, Matplotlib,DecisionTreeRegressor,LinearRegression
+
+**Project Objective:** Using machine learning to predict employee attrition in Python, We use logistic Regressor as classifier for employee attrition and measure the accuracy of models that are built.
+
+**Quantifiable result:** We achieved the best accuracy of [** 76% **]. 
 
 
