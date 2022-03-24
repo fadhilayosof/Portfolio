@@ -64,7 +64,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 **Project Objective:** In this problem, we will use the features associated with clicks, such as IP address, operating system, device type, time of click etc. to predict the probability of a click being fraud.
 
-**Quantifiable result:** We could Classify the Pepole who downloaded the app after watching the advertisement with an accuracy of **99% **.
+**Quantifiable result:** We could Classify the Pepole who downloaded the app after watching the advertisement with an accuracy of **99%**.
 
 - Used the XGboost Classifier algorithm to classify the Pepole who downloaded the app after watching the advertisement and identify the click fraud
 - Compared predictive performance by fitting a BaggingClassifier model to the data
@@ -93,7 +93,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 **Project Objective:** Using machine learning to predict Suicide-Rates in Python, We use  Decision Tree Regressor as classifier for Suicide Rates and measure the accuracy of models that are built.
 
-**Quantifiable result:** We achieved the best accuracy of ** 99% **. 
+**Quantifiable result:** We achieved the best accuracy of **99%**. 
 
 ****
 
@@ -105,7 +105,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 **Project Objective:**  Build classification models to predict the ratings of the movie , we used LogisticRegression and ,MultinomialNB
 
-**Quantifiable result:** Logistic Regression show best accuracy** 89% **
+**Quantifiable result:** Logistic Regression show best accuracy **89%**
 
 ****
 [Predicting-Employee-Attrition ](https://github.com/fadhilayosof/Predicting-Employee-Attrition-project)
@@ -116,6 +116,6 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 **Project Objective:** Using machine learning to predict employee attrition in Python, We use logistic Regressor as classifier for employee attrition and measure the accuracy of models that are built.
 
-**Quantifiable result:** We achieved the best accuracy of ** 76% **. 
+**Quantifiable result:** We achieved the best accuracy of **76%**. 
 
 
