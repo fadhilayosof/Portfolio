@@ -48,8 +48,8 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 **Project Objective:** In this project we are provided with multiple instances of orthopedic parameters and we are also provided with their classification as Normal or Abnormal. We have to implement K Nearest Neighbor, the algorithm is used to classify points according to class of their K nearest neighbor points. 
 
-**Quantifiable result:** We could Classify the orthopedic parameters as Normal or Abnormal with an accuracy of. **91.94% as k=8 and 85.48% as k=3**
-
+**Quantifiable result:**  We could classify the type of tumour resulting in **85.48%** accuracy using the K-means algorithm with K=3
+● We could classify the same result with **77.42%** accuracy by using the Naive Bayes mode
 - Used the K Nearest Neighbours algorithm to classify a patient’s condition as normal or abnormal based on various orthopedic parameters.
 - Compared predictive performance by fitting a Naive Bayes model to the data.
 - Selected best model based on train and test performance.
@@ -64,8 +64,8 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 **Project Objective:** In this problem, we will use the features associated with clicks, such as IP address, operating system, device type, time of click etc. to predict the probability of a click being fraud.
 
-**Quantifiable result:** We could Classify the Pepole who downloaded the app after watching the advertisement with an accuracy of **99%**.
-
+**Quantifiable result:** We could predict whether a given click resulted in a download or not. The accuracy of the XGBoostClassifier is **95.62%**
+Accuracy of the Bagging classifier accuracy is **99%**.
 - Used the XGboost Classifier algorithm to classify the Pepole who downloaded the app after watching the advertisement and identify the click fraud
 - Compared predictive performance by fitting a BaggingClassifier model to the data
 - Selected best model based on train and test performance
