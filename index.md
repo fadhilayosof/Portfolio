@@ -40,7 +40,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 ***
 
-[Identifying Symptoms of Orthopedic Patients as Normal or Abnormal](https://github.com/fadhilayosof/Identifying-Symptoms-of-Orthopedic-Patients/blob/main/Orthopedic_Patients_project.ipynb)
+[Identifying Symptoms of Orthopedic Patients as Normal or Abnormal](https://github.com/fadhilayosof/Identifying-Symptoms-of-Orthopedic-Patients/blob/main/Orthopedic_Patients_project%20(1).ipynb)
 
 <img src="Orthopedics.png?raw=true"/>
 
