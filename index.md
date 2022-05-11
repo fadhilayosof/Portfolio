@@ -71,7 +71,7 @@ Accuracy of the Bagging classifier accuracy is **99%**.
 - Selected best model based on train and test performance
 
 ***
-[Employee Compensation in SF clustering ](https://github.com/fadhilayosof/k-means-project/blob/main/Copy_of_k_means_project.ipynb)
+[Employee Compensation in SF clustering ](https://github.com/fadhilayosof/k-means-project/blob/main/k_means_project%20(1).ipynb)
 
 <img src="clusters.png?raw=true"/>
 
